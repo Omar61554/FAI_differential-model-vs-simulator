@@ -1,0 +1,37 @@
+running egg_info
+creating ../build/G-model/G_model.egg-info
+writing ../build/G-model/G_model.egg-info/PKG-INFO
+writing dependency_links to ../build/G-model/G_model.egg-info/dependency_links.txt
+writing entry points to ../build/G-model/G_model.egg-info/entry_points.txt
+writing requirements to ../build/G-model/G_model.egg-info/requires.txt
+writing top-level names to ../build/G-model/G_model.egg-info/top_level.txt
+writing manifest file '../build/G-model/G_model.egg-info/SOURCES.txt'
+reading manifest file '../build/G-model/G_model.egg-info/SOURCES.txt'
+writing manifest file '../build/G-model/G_model.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/omark/4-wheeled/src/build/G-model/build
+creating /home/omark/4-wheeled/src/build/G-model/build/lib
+creating /home/omark/4-wheeled/src/build/G-model/build/lib/G-model
+copying G-model/__init__.py -> /home/omark/4-wheeled/src/build/G-model/build/lib/G-model
+copying G-model/coppelia.py -> /home/omark/4-wheeled/src/build/G-model/build/lib/G-model
+copying G-model/model.py -> /home/omark/4-wheeled/src/build/G-model/build/lib/G-model
+running install
+running install_lib
+creating /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model
+copying /home/omark/4-wheeled/src/build/G-model/build/lib/G-model/__init__.py -> /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model
+copying /home/omark/4-wheeled/src/build/G-model/build/lib/G-model/coppelia.py -> /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model
+copying /home/omark/4-wheeled/src/build/G-model/build/lib/G-model/model.py -> /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model
+byte-compiling /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model/coppelia.py to coppelia.cpython-310.pyc
+byte-compiling /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G-model/model.py to model.cpython-310.pyc
+running install_data
+creating /home/omark/4-wheeled/src/install/G-model/share/ament_index
+creating /home/omark/4-wheeled/src/install/G-model/share/ament_index/resource_index
+creating /home/omark/4-wheeled/src/install/G-model/share/ament_index/resource_index/packages
+copying resource/G-model -> /home/omark/4-wheeled/src/install/G-model/share/ament_index/resource_index/packages
+copying package.xml -> /home/omark/4-wheeled/src/install/G-model/share/G-model
+running install_egg_info
+Copying ../build/G-model/G_model.egg-info to /home/omark/4-wheeled/src/install/G-model/lib/python3.10/site-packages/G_model-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/omark/4-wheeled/src/build/G-model/install.log'

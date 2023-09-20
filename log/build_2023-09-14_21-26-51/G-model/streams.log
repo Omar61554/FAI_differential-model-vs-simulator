@@ -1,0 +1,36 @@
+[1.224s] Invoking command in '/home/omark/4-wheeled/src/G-model': PYTHONPATH=/home/omark/4-wheeled/build/G-model/prefix_override:/home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/G-model build --build-base /home/omark/4-wheeled/build/G-model/build install --record /home/omark/4-wheeled/build/G-model/install.log --single-version-externally-managed
+[1.455s] running egg_info
+[1.455s] creating ../../build/G-model/G_model.egg-info
+[1.456s] writing ../../build/G-model/G_model.egg-info/PKG-INFO
+[1.456s] writing dependency_links to ../../build/G-model/G_model.egg-info/dependency_links.txt
+[1.456s] writing entry points to ../../build/G-model/G_model.egg-info/entry_points.txt
+[1.456s] writing requirements to ../../build/G-model/G_model.egg-info/requires.txt
+[1.456s] writing top-level names to ../../build/G-model/G_model.egg-info/top_level.txt
+[1.456s] writing manifest file '../../build/G-model/G_model.egg-info/SOURCES.txt'
+[1.458s] reading manifest file '../../build/G-model/G_model.egg-info/SOURCES.txt'
+[1.458s] writing manifest file '../../build/G-model/G_model.egg-info/SOURCES.txt'
+[1.458s] running build
+[1.458s] running build_py
+[1.458s] creating /home/omark/4-wheeled/build/G-model/build
+[1.459s] creating /home/omark/4-wheeled/build/G-model/build/lib
+[1.459s] creating /home/omark/4-wheeled/build/G-model/build/lib/G-model
+[1.459s] copying G-model/__init__.py -> /home/omark/4-wheeled/build/G-model/build/lib/G-model
+[1.459s] copying G-model/model.py -> /home/omark/4-wheeled/build/G-model/build/lib/G-model
+[1.459s] running install
+[1.459s] running install_lib
+[1.460s] creating /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G-model
+[1.460s] copying /home/omark/4-wheeled/build/G-model/build/lib/G-model/__init__.py -> /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G-model
+[1.460s] copying /home/omark/4-wheeled/build/G-model/build/lib/G-model/model.py -> /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G-model
+[1.460s] byte-compiling /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G-model/__init__.py to __init__.cpython-310.pyc
+[1.460s] byte-compiling /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G-model/model.py to model.cpython-310.pyc
+[1.460s] running install_data
+[1.461s] creating /home/omark/4-wheeled/install/G-model/share/ament_index
+[1.461s] creating /home/omark/4-wheeled/install/G-model/share/ament_index/resource_index
+[1.461s] creating /home/omark/4-wheeled/install/G-model/share/ament_index/resource_index/packages
+[1.461s] copying resource/G-model -> /home/omark/4-wheeled/install/G-model/share/ament_index/resource_index/packages
+[1.461s] copying package.xml -> /home/omark/4-wheeled/install/G-model/share/G-model
+[1.461s] running install_egg_info
+[1.462s] Copying ../../build/G-model/G_model.egg-info to /home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages/G_model-0.0.0-py3.10.egg-info
+[1.463s] running install_scripts
+[1.480s] writing list of installed files to '/home/omark/4-wheeled/build/G-model/install.log'
+[1.499s] Invoked command in '/home/omark/4-wheeled/src/G-model' returned '0': PYTHONPATH=/home/omark/4-wheeled/build/G-model/prefix_override:/home/omark/4-wheeled/install/G-model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/G-model build --build-base /home/omark/4-wheeled/build/G-model/build install --record /home/omark/4-wheeled/build/G-model/install.log --single-version-externally-managed
